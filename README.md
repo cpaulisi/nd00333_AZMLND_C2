@@ -15,17 +15,17 @@ As a continuation of the project's development, changing which models are traine
 
 ## Screenshots
 
-**First, the bank marketing data was uploaded to the registered datasets.**
+**First, the bank marketing data was uploaded to the registered datasets. The dataset allows for the training of classification models using customer data to infer their reaction to engagement efforts. **
 
 <img width="1439" alt="Screen Shot 2022-01-13 at 8 02 23 PM" src="https://user-images.githubusercontent.com/87383001/149636456-1488d28b-8960-4f06-b281-0db78d9aa362.png">
 <img width="1414" alt="Screen Shot 2022-01-13 at 8 02 56 PM" src="https://user-images.githubusercontent.com/87383001/149636463-802f1f5b-a5f5-4827-9075-2b26c5000e12.png">
 
-**Then the AutoML run was completed and the best performing model was selected.**
+**An AutoML run was then completed, and the best performing model was selected. The computer cluster details for this run allocated a CPU cluster of configuration Standard_DS12_v2, with a minimum of 1 node. The exit criteria was specified as a 1-hour exit, and a concurrency of 5 processes. This allows for the AutoML run to find the optimal model in the fastest, yet most efficient, way possible.**
 
 <img width="1431" alt="Screen Shot 2022-01-13 at 10 39 40 PM" src="https://user-images.githubusercontent.com/87383001/149636492-3799eae6-8ec5-4ecf-9df6-a1706a956036.png">
 <img width="1426" alt="Screen Shot 2022-01-13 at 10 40 32 PM" src="https://user-images.githubusercontent.com/87383001/149636514-4d2564b3-4cb7-4c63-8fff-f12af317afb4.png">
 
-**After that, the model was deployed; after this applications insights were enabled and logs were generated.**
+**After that, the model was set for deployment. after this applications insights were enabled and logs were generated.**
 
 <img width="1428" alt="Screen Shot 2022-01-13 at 10 47 55 PM" src="https://user-images.githubusercontent.com/87383001/149636544-e01fd4f1-1c30-4a1b-9898-488639ec9c61.png">
 <img width="1249" alt="Screen Shot 2022-01-13 at 10 51 59 PM" src="https://user-images.githubusercontent.com/87383001/149636545-9a50ab52-7250-4a08-9fba-7654b0cd41d9.png">
