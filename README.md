@@ -41,25 +41,34 @@ As a continuation of the project's development, changing which models are traine
 **The model was tested for consumption and benchmarked using sample input payload.**
 
 ![Screen Shot 2022-01-15 at 1 48 35 PM](https://user-images.githubusercontent.com/87383001/149636627-2f98ff46-f16c-434a-81bb-79edd00d81e8.png)
+
 ![Screen Shot 2022-01-15 at 1 55 53 PM](https://user-images.githubusercontent.com/87383001/149636611-e5090062-4f01-40f6-a96f-3cb8a748f221.png)
+
 ![Screen Shot 2022-01-15 at 1 54 16 PM](https://user-images.githubusercontent.com/87383001/149636631-51a46dcc-4fe9-407d-817c-303ac58813df.png)
+
 ![Screen Shot 2022-01-15 at 1 54 46 PM](https://user-images.githubusercontent.com/87383001/149636636-4fc0c2dc-539f-4d6d-80aa-df64f846f9ab.png)
 
 **A pipeline was established.**
 
 <img width="1312" alt="Screen Shot 2022-01-13 at 9 11 56 PM" src="https://user-images.githubusercontent.com/87383001/149636673-0189cba4-2388-4293-9fad-3715863792f4.png">
+
 ![Screen Shot 2022-01-15 at 2 15 49 PM](https://user-images.githubusercontent.com/87383001/149636814-6b805c4c-eb1f-4e4d-ac52-69ab63d79aa1.png)
+
 ![Screen Shot 2022-01-15 at 1 59 48 PM](https://user-images.githubusercontent.com/87383001/149636718-6e0d80eb-a920-4996-985a-f0be6990644d.png)
+
 <img width="1124" alt="Screen Shot 2022-01-13 at 9 43 59 PM" src="https://user-images.githubusercontent.com/87383001/149636728-6d40d287-0c79-4b71-96cf-fd8821a61428.png">
+
 ![Screen Shot 2022-01-15 at 2 05 22 PM](https://user-images.githubusercontent.com/87383001/149636744-b0fb3ec1-f31d-4faf-9e09-b8eae4bc420a.png)
 
 **The run details widget was also generated.**
 
 ![Screen Shot 2022-01-15 at 1 50 07 PM](https://user-images.githubusercontent.com/87383001/149636761-ed856410-3196-4cf1-b033-a296361136b5.png)
+
 ![Screen Shot 2022-01-15 at 1 50 15 PM](https://user-images.githubusercontent.com/87383001/149636766-d361a4cf-a937-440d-97b2-b09ac6a84795.png)
 
 **The pipeline was set on a regular schedule**
 
 ![Screen Shot 2022-01-15 at 2 13 54 PM](https://user-images.githubusercontent.com/87383001/149636799-bf679826-7b90-453d-970f-b9d1c9a711a5.png)
+
 ![Screen Shot 2022-01-15 at 2 13 41 PM](https://user-images.githubusercontent.com/87383001/149636817-d929a571-0831-4c04-abb6-3bc777377057.png)
 
