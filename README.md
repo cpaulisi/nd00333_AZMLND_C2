@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualstudiomagazine.com%2Farticles%2F2021%2F05%2F18%2Fazure-icon.aspx&psig=AOvVaw1KRT4gFa7_XALkL3g_Pshl&ust=1642557051047000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC0nv6XuvUCFQAAAAAdAAAAABAD">
+<img align="right" width="100" height="100" src="https://visualstudiomagazine.com/articles/2021/05/18/~/media/ECG/visualstudiomagazine/Images/2021/05/new_azure_a.ashx">
 
 # Udacity Azure MLOps Project 2
 [View the screencast here.](https://youtu.be/Xx2r0VRO3e4)
