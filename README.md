@@ -33,14 +33,14 @@
 
 ### Sample Deployment
 
-  After that, the model was set for deployment. Authentication was enabled for the deployment, and the model was deployed using an Azure Container Instance for portability. By default, application insight are disabled within the container instance. The logs.py file allowed us to enable applications insights, after which  logs were generated tested.
+  After that, the model was set for deployment. Authentication was enabled for the deployment, and the model was deployed using an Azure Container Instance for portability. By default, application insight are disabled within the container instance. The logs.py file allowed us to enable applications insights, after which  logs were generated and tested.
 
 <img width="1428" alt="Screen Shot 2022-01-13 at 10 47 55 PM" src="https://user-images.githubusercontent.com/87383001/149636544-e01fd4f1-1c30-4a1b-9898-488639ec9c61.png">
 <img width="1249" alt="Screen Shot 2022-01-13 at 10 51 59 PM" src="https://user-images.githubusercontent.com/87383001/149636545-9a50ab52-7250-4a08-9fba-7654b0cd41d9.png">
 
 ### Swagger
 
-  Swagger was then used to view the contents and documentation for the model, along with API methods and responses. The pedantics of HTTP request methods, including POST and GET, were outlined in the Swagger UI. The serve.py script and swagger.sh scripts, along with a swagger.json file downloaded from Azure, were used to construct and view the UI, which was ported to a localhost.
+  Swagger was then used to view the contents and documentation for the model, along with API methods and responses. The pedantics of HTTP request methods, including POST and GET, were outlined in the Swagger UI. This provides clear instructions and formatting guidelines for consuming the endpoint. The serve.py script and swagger.sh scripts, along with a swagger.json file downloaded from Azure, were used to construct and view the UI, which was ported to a localhost.
 
 ![Screen Shot 2022-01-15 at 2 21 11 PM](https://user-images.githubusercontent.com/87383001/149636579-ef9f6f54-f797-4493-9842-50ce19cc0338.png)
 <img width="1427" alt="Screen Shot 2022-01-13 at 11 00 52 PM" src="https://user-images.githubusercontent.com/87383001/149636582-a03ab632-30f2-456e-a592-5ea05984f5be.png">
