@@ -9,7 +9,7 @@
 
 ![Screen Shot 2022-01-15 at 3 10 38 PM](https://user-images.githubusercontent.com/87383001/149636325-8b028354-3a35-4aed-8053-bfee377b2e8d.png)
 
-## Improvments
+## Improvements
 
  As a continuation of the project's development, changing which models are trained and how the endpoint is consumed could lead to improvements. By specifying a smaller subset of models (narrowed down from the best-performing models demostrated by AutoML), classification performance under all metrics could improve. Automation likewise could be aided by establishing a CRON job that periodically runs the model on new input data, and aggregates this output on some storage.
 
