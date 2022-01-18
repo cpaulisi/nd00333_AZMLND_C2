@@ -1,6 +1,7 @@
+<img align="right" width="100" height="100" src="https://visualstudiomagazine.com/articles/2021/05/18/~/media/ECG/visualstudiomagazine/Images/2021/05/new_azure_a.ashx">
+
 # Udacity Azure MLOps Project 2
 [View the screencast here.](https://youtu.be/Xx2r0VRO3e4)
-<img align="right" width="100" height="100" src="https://visualstudiomagazine.com/articles/2021/05/18/~/media/ECG/visualstudiomagazine/Images/2021/05/new_azure_a.ashx">
 
 ## Overview
 
