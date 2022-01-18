@@ -1,4 +1,4 @@
-![azure_icon](https://user-images.githubusercontent.com/87383001/149857004-5e4a831e-91b7-4097-a8ea-a915b273bdd4.png)
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 # Udacity Azure MLOps Project 2
 [View the screencast here.](https://youtu.be/Xx2r0VRO3e4)
